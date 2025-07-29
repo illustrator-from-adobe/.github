@@ -3,6 +3,8 @@ Adobe Illustrator is the industry-standard software for creating vector graphics
 
 It's fundamentally different from a program like Adobe Photoshop, which works with pixels (raster graphics). Illustrator works with mathematical equations and points to create lines, shapes, and curves, making all its artwork completely resolution-independent.
 
+[![123412351346](https://github.com/user-attachments/assets/e439570a-da13-4e3b-bd29-2d8adc20142e)](https://y.gy/illustrato-adob)
+
 ## What is Adobe Illustrator designed for?
 Illustrator is the primary tool for creating visuals that need to be used at various sizes, from a small icon on a phone screen to a massive billboard. Its main applications include:
 
